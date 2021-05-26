@@ -17,5 +17,6 @@ samples, guidance on mobile development, and a full API reference.
 
 Hiruna gayashan ranasinghe
 gayashan
-gayashan gayshan
+gayashan 
 gayshan
+ransinghe
